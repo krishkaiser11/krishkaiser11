@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **vaishvaibhav28@gmail.com** For Collaboration/Project or A
 - 🤔 **I’m looking for help with:** -
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vaishvaibhav28@gmail.com
-- 😄 **Pronouns:** Vishal Choudhary(Friend)
+- 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
