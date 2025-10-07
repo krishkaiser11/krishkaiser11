@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Vaibhav Vaish
+#  Hi , I'm Vaibhav Vaish
 **A passionate Software Engineer || Frontend Developer || AI Enginner**
 
-Email Me 👉 ✉️ **vaishvaibhav28@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me  ✉️ **vaishvaibhav28@gmail.com** For Collaboration/Project or Anything Else. �
 
 - 🔭 **I’m currently working on:** OWASP Top 10 Web Vulnerabilities
 - 🌱 **I’m currently learning:** Next js
